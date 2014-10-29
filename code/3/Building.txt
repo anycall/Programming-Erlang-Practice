@@ -1,0 +1,1 @@
+{building,{width,15},{length,15},{height,5},{position,{0,0}}}
